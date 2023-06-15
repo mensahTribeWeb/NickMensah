@@ -1,4 +1,23 @@
-<h1>🤖🤖 Hi, I’m @mensahTribeWeb</h1>
+<h1>🤖🤖 Hi, I’m Nick Mensah </h1>
+
+<h2>About Me</h2>
+<p>I am a Full-stack Java Developer</p>
+
+<h2>Stack</h2>
+<ul>
+  <li>React: front-end</li>
+  <li>JavaScript: front-end</li>
+  <li>Java: back-end</li>
+  <li>Spring: back-end</li>
+  <li>Postgres: database</li>
+</ul>
+
+<h2>Github</h2>
+<ul>
+  <li>@mensahtribe -dev</li>
+  <li>@mensahTribeWeb -admin</li>
+  <li>@Nokore.dev -LLC</li>
+</ul>
 
 <img src="https://octodex.github.com/images/stormtroopocat.jpg" alt="Stormtroopocat" title="The Stormtroopocat"></p>
 - 👀 I’m interested in Java, React, Javascript, Spring, Postgres, ML
