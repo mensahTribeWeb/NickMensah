@@ -10,6 +10,7 @@
   <li>Java: back-end</li>
   <li>Spring: back-end</li>
   <li>Postgres: database</li>
+  <li>Linux: Ubuntu, Kali-Linux</li>
 </ul>
 
 <h2>Github</h2>
@@ -20,8 +21,8 @@
 </ul>
 
 <img src="https://octodex.github.com/images/stormtroopocat.jpg" alt="Stormtroopocat" title="The Stormtroopocat"></p>
-- 👀 I’m interested in Java, React, Javascript, Spring, Postgres, ML
-- 🌱 I’m currently learning 
+- 👀 I’m interested in Java, React, Javascript, Spring, Postgres, ML, Linux
+- 🌱 I’m currently learning  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
