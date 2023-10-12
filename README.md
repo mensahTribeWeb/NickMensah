@@ -1,4 +1,4 @@
-<h1>👨🏾‍💻 Hi, I’m Nick Mensah </h1>
+# <h1>👨🏾‍💻 Hi, I’m Nick Mensah </h1>
 
 <h2>About Me</h2>
 <p>I am a Full-stack Java Developer</p>
