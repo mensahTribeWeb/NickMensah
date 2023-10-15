@@ -1,4 +1,4 @@
-# <h1>👨🏾‍💻 Hi, I’m Nick Mensah </h1>
+# <h1> **👨🏾‍💻 Hi, I’m Nick Mensah** </h1>
 
 <br>
 
@@ -59,3 +59,5 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
 
 <br>
+
+
