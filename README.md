@@ -1,5 +1,7 @@
 # <h1>👨🏾‍💻 Hi, I’m Nick Mensah </h1>
 
+<img src="https://avatars.githubusercontent.com/u/103342287?v=4" alt="Nick Mensah" title="NickMensah"></p>
+
 <h2>About Me</h2>
 <p>I am a Full-stack Java Developer</p>
 
@@ -28,11 +30,6 @@
 </ul>
 
 <img src="https://octodex.github.com/images/stormtroopocat.jpg" alt="Stormtroopocat" title="The Stormtroopocat"></p>
-
--👨🏾‍💻👨🏾‍💻  I’m interested in Java, React, Javascript, Spring, Postgres, ML, Linux
-- 🌱 I’m currently learning  
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 mensahTribeWeb/mensahTribeWeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
