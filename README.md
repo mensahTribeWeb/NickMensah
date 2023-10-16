@@ -2,7 +2,7 @@
 
 <br>
 
-<a href="https://nickmensahportfolio.com/"><img src="https://avatars.githubusercontent.com/u/103342287?v=4" alt="Nick Mensah" title="NickMensah"></p></a>
+<a href="https://nickmensahportfolio.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/103342287?v=4" alt="Nick Mensah" title="NickMensah"></p></a>
 
 <h2>About Me</h2>
 <p>I am a Full-stack Java Developer</p>
