@@ -57,17 +57,43 @@ I am a Full-stack Java Developer.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="120" height="120">
 </div>
 
+## Projects
+
 ## 👨🏾‍💻FullStack Projects
+
 ### React Spring Boot 🍃
+#### Coming Soon
+- [Link to Live site:](#)
+- [Link to code:](#)
+- Brief description: [coming soon]
 
 ### Angular Spring Boot🍃
+#### Coming Soon
+- [Link to Live site:](#)
+- [Link to code:](#)
+- Brief description: [coming soon]
 
-## 👨🏾‍💻 Front Projects
+## 👨🏾‍💻 Front End Projects
+
 ### HTML CSS JS
 
+#### Nicks Portfolio 
+- [Nicks Portfolio](https://nickmensahportfolio.com/)
+- [Link to Code](https://github.com/mensahTribeWeb/nicksSimplefolio.git)
+- Brief description: `My first contribution to an open-source project showcasing the beauty of HTML, CSS, and JavaScript - a portfolio with links to projects`
+
 ### React
+##### Digital Business Card
+- [Digital Business Card](https://mensahtribeweb.github.io/digital-business-card/)
+- [Link to Code](https://github.com/mensahTribeWeb/digital-business-card.git)
+- Brief description: `A React Digital business card with links to social sites`
 
 ### Angular
+#### Coming Soon
+- [Link to Live site:](#)
+- [Link to code:](#)
+- Brief description: [coming soon]
+
 
 # Thank You For Your Time
 
