@@ -1,8 +1,14 @@
-# 👨🏾‍💻 Hi, I’m Nick Mensah
+# 👨🏾‍💻 Hi, I’m Nick Mensah 
 
-<a href="https://nickmensahportfolio.com/" target="_blank" style="text-align: center; display: block;">
-  <img src="https://avatars.githubusercontent.com/u/103342287?v=4" alt="Nick Mensah" title="NickMensah" style="width: 300px; height: 300px;">
-</a>
+<div style="text-align: center; display: flex; align-items: center; justify-content: center;">
+  <a href="https://nickmensahportfolio.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/103342287?v=4" alt="Nick Mensah" title="Nick Mensah" style="width: 300px; height: 300px;">
+  </a>
+
+  <img src="https://github.com/mensahTribeWeb/NickMensah/assets/103342287/ebeef1dd-e73e-4443-92b3-7050222efd33" alt="HelloWorldSeytonicGIF" style="width: 300px; height: 300px;" >
+</div>
+
+
 
 ## About Me
 I am a Full-stack Java Developer.
