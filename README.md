@@ -7,7 +7,6 @@
     <img src="https://avatars.githubusercontent.com/u/103342287?v=4" alt="Nick Mensah" title="Nick Mensah" style="width: 300px; height: 300px;">
   </a>
 
-  <img src="https://github.com/mensahTribeWeb/NickMensah/assets/103342287/ebeef1dd-e73e-4443-92b3-7050222efd33" alt="HelloWorldSeytonicGIF" style="width: 300px; height: 300px;" >
 </div>
 
 ## About Me
@@ -59,6 +58,10 @@ I am a Full-stack Java Developer.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-plain.svg" alt="PyCharm" title="PyCharm" width="120" height="120">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="120" height="120">
 </div>
+
+## Certifications 
+
+
 
 ## Projects
 
