@@ -69,6 +69,9 @@ I am a Full-stack Java Developer.
 <a href = "https://www.credly.com/badges/ba2211df-87ea-4edb-9dfa-5c304479f2ae/public_url" target="_blank">
 <image src = "https://images.credly.com/size/340x340/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png" alt="IBM-AGILE-CERT" title="IBM-AGILE-CERT" width="120" height="120" />
 </a>
+<a href = "https://www.credly.com/badges/36eb982d-d994-40b8-82f4-f71107e646b2/public_url" target="_blank">
+<image src = "https://images.credly.com/size/340x340/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png" alt="data-sci" title="data-sci" width="120" height="120" />
+</a>
 
 
 
