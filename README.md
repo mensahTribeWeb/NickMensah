@@ -59,10 +59,14 @@ I am a Full-stack Java Developer.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="120" height="120">
 </div>
 
+
+  
 ## Certifications 
 
+[Credly](https://www.credly.com/users/nick-mensah/badges)
+
 <a href = "https://www.credly.com/badges/ba2211df-87ea-4edb-9dfa-5c304479f2ae/public_url" target="_blank">
-<image src = "https://images.credly.com/size/340x340/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png" />
+<image src = "https://images.credly.com/size/340x340/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png" alt="IBM-AGILE-CERT" title="IBM-AGILE-CERT" width="120" height="120" />
 </a>
 
 
