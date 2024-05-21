@@ -44,7 +44,7 @@ I am a Full-stack Java Developer.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="120" height="120">
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" width="120" height="120">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="120" height="120">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" title="Spring" width="120" height="120"">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" title="Spring" width="120" height="120">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" width="120" height="120">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" width="120" height="120">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="120" height="120">
