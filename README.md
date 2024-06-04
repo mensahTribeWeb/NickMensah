@@ -28,11 +28,26 @@
 I am a Full-stack Java Developer.
 
 ## Stack
-- React: front-end framework
+
+### Frontend:
+
 - JavaScript: front-end
+- Angular: front-end framework
+- React: front-end libary
+
+### Backend:
+
 - Java: back-end
 - Spring: back-end framework
+
+### Database: 
+
 - Postgres: database
+- mySQL: database
+
+### Operating System:
+
+- Windows: Microsoft
 - Linux distribution: Ubuntu
 
 ## Contact Me
