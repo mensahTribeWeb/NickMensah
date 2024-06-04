@@ -60,7 +60,7 @@ I am a Full-stack Java Developer.
     <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" title="markdown" width="120" height="120">
 </div>
 
-
+[Nick's github stats](https://github-readme-stats.vercel.app/api?username=mensahTribeWeb)
   
 ## Certifications 
 
@@ -79,6 +79,8 @@ I am a Full-stack Java Developer.
 
 
 ## Projects
+
+[Nick's github stats](https://github-readme-stats.vercel.app/api?username=mensahTribeWeb)
 
 ## 👨🏾‍💻FullStack Projects
 
