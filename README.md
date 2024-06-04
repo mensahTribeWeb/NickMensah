@@ -1,13 +1,17 @@
 <h1>👨🏾‍💻 Hi, I’m Nick Mensah </h1>  
 
-<div style="text-align: center; display: flex; align-items: center; justify-content: center;">
+<div style="text-align: center; display: flex; align-items: center; justify-items: center;">
   <img src="https://github.com/mensahTribeWeb/NickMensah/assets/103342287/ebeef1dd-e73e-4443-92b3-7050222efd33" alt="HelloWorldSeytonicGIF" style="width: 300px; height: 300px;" >
   
   <a href="https://nickmensahportfolio.com/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/103342287?v=4" alt="Nick Mensah" title="Nick Mensah" style="width: 300px; height: 300px;">
   </a>
 
+
 </div>
+
+| <a href="https://github.com/mensahTribeWeb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mensahTribeWeb&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nick's github stats" /></a> | <a href="https://github.com/mensahTribeWeb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mensahTribeWeb&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ## About Me
 I am a Full-stack Java Developer.
@@ -60,7 +64,21 @@ I am a Full-stack Java Developer.
     <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" title="markdown" width="120" height="120">
 </div>
 
-[Nick's github stats](https://github-readme-stats.vercel.app/api?username=mensahTribeWeb)
+[Nick's github stats]("https://github-readme-stats.vercel.app/api?username=mensahTribeWeb")
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=mensahTribeWeb&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=mensahTribeWeb&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mensahTribeWeb&show_icons=true" />
+</picture>
+
+
   
 ## Certifications 
 
