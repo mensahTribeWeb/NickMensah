@@ -1,6 +1,6 @@
-<h1>👨🏾‍💻 Hi, I’m Nick Mensah </h1>  
+<h1 align="center>👨🏾‍💻 Hi, I’m Nick Mensah </h1>  
 
-<div style="text-align: center; display: flex; align-items: center; justify-items: center;">
+<div align="center style="text-align: center; display: flex; align-items: center; justify-items: center;">
   <img src="https://github.com/mensahTribeWeb/NickMensah/assets/103342287/ebeef1dd-e73e-4443-92b3-7050222efd33" alt="HelloWorldSeytonicGIF" style="width: 300px; height: 300px;" >
   
   <a href="https://nickmensahportfolio.com/" target="_blank">
@@ -38,7 +38,7 @@ I am a Full-stack Java Developer.
 ## Github
   - @mensahtribe-dev
   - @mensahTribeWeb-admin
-  - @Nokore.dev-LLC
+  - @[Nokore.dev](https://nokore.dev/home)-LLC
 
 ## Languages and Tools 👨🏾‍💻
 <div style="display: flex; gap: 30px; max-width: 400px; justify-content: center; align-items: center;">
@@ -118,7 +118,8 @@ I am a Full-stack Java Developer.
 
 ### HTML CSS JS
 
-#### Nicks Portfolio 
+#### Nicks Portfolio
+- [Nokore.dev portfolio](https://nokore.dev/home)
 - [Nicks Portfolio](https://nickmensahportfolio.com/)
 - [Link to Code](https://github.com/mensahTribeWeb/nicksSimplefolio.git)
 - Brief description: `My first contribution to an open-source project showcasing the beauty of HTML, CSS, and JavaScript - a portfolio with links to projects`
