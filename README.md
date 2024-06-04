@@ -1,4 +1,4 @@
-<h1 align="center>👨🏾‍💻 Hi, I’m Nick Mensah </h1>  
+# 👨🏾‍💻 Hi, I’m Nick  👨🏾‍💻 
 
 <div align="center style="text-align: center; display: flex; align-items: center; justify-items: center;">
   <img src="https://github.com/mensahTribeWeb/NickMensah/assets/103342287/ebeef1dd-e73e-4443-92b3-7050222efd33" alt="HelloWorldSeytonicGIF" style="width: 300px; height: 300px;" >
@@ -16,6 +16,8 @@
 
 | <a href="https://github.com/mensahTribeWeb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mensahTribeWeb&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nick's github stats" /></a> | <a href="https://github.com/mensahTribeWeb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mensahTribeWeb&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
 
 ## [Retired GitHub](https://github.com/mensahtribe)
 
