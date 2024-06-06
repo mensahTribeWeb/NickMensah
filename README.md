@@ -50,7 +50,7 @@ I am a Full-stack Java Developer.
 
 ### Backend:
 - Java
-- Spring
+- Springboot
 
 ### Database:
 - PostgreSQL
