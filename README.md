@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://github.com/mensahTribeWeb/NickMensah/assets/103342287/ebeef1dd-e73e-4443-92b3-7050222efd33" alt="HelloWorldSeytonicGIF" style="width: 300px; height: 300px;">
   <a href="https://nickmensahportfolio.com/" target="_blank">
@@ -8,7 +7,6 @@
 <div align: center"> 
   <img src="https://github.com/mensahTribeWeb/NickMensah/assets/103342287/75fd9f17-ba02-4841-8177-f1dba8f3f171" alt="Nick's Profile" style="max-width: 100%; height: auto;">
 </div>
-
 
 
 ## [Active GitHub](https://github.com/mensahTribeWeb)
@@ -29,7 +27,6 @@
   <a href="https://github.com/mensahtribe/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mensahtribe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nick's retired GitHub Stats">
   </a>
-
   
   <a href="https://github.com/mensahTribeWeb/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mensahtribe&layout=compact&theme=buefy&hide_border=true" alt="Top Languages">
@@ -40,7 +37,6 @@
 ## About Me
 I am a Full-stack Java Developer.
 
-
 ## Stack
 
 ### Frontend:
@@ -50,7 +46,7 @@ I am a Full-stack Java Developer.
 
 ### Backend:
 - Java
-- Spring
+- Springboot
 
 ### Database:
 - PostgreSQL
@@ -126,11 +122,6 @@ I am a Full-stack Java Developer.
 <a href = "https://www.credly.com/badges/36eb982d-d994-40b8-82f4-f71107e646b2/public_url" target="_blank">
 <image src = "https://images.credly.com/size/340x340/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png" alt="data-sci" title="data-sci" width="120" height="120" />
 </a>
-
-
-
-
-
 
 ## Projects
 
