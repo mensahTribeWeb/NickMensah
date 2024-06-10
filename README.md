@@ -9,6 +9,7 @@
 </div>
 
 
+
 ## [Active GitHub](https://github.com/mensahTribeWeb)
 
 <br/>
@@ -27,22 +28,22 @@
   <a href="https://github.com/mensahtribe/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mensahtribe&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Nick's retired GitHub Stats">
   </a>
-  
-  <a href="https://github.com/mensahTribeWeb/github-readme-stats">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mensahtribe&layout=compact&theme=dark&hide_border=true">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mensahtribe&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
   </a>
 </div>
 
 ## Streak
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mensahTribeWeb&theme=dark&hide_border=false" width="100%"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mensahTribeWeb&theme=dark&hide_border=false" width="100%"/>
 </p>
 
 ## Summary
 
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mensahTribeWeb&theme=dark" width="100%"/>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mensahTribeWeb&theme=dark" width="100%"/>
 </p>
-
 
 
 ## About Me
