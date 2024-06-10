@@ -26,23 +26,25 @@
 <br/>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mensahTribeWeb&show_icons=true&theme=dark" alt="Nick's GitHub Stats" />
   <a href="https://github.com/mensahTribeWeb/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mensahTribeWeb&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Nick's GitHub Stats">
-  </a>
-  <a href="https://github.com/mensahTribeWeb/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mensahTribeWeb&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mensahTribeWeb&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 
+
+
 ## [Retired GitHub](https://github.com/mensahtribe)
+
 <div align="center">
   <a href="https://github.com/mensahtribe/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mensahtribe&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Nick's retired GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=mensahtribe&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Nick's retired GitHub Stats" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mensahtribe&layout=compact&theme=dark&hide_border=true">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mensahtribe&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mensahtribe&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
   </a>
 </div>
+
 
 ## Streak
 
@@ -116,19 +118,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" title="markdown" width="120" height="120">
 </div>
 
-[Nick's github stats]("https://github-readme-stats.vercel.app/api?username=mensahTribeWeb")
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mensahTribeWeb&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mensahTribeWeb&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mensahTribeWeb&show_icons=true" />
-</picture>
 
 
   
