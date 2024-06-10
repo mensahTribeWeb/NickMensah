@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <a href="#">
+  <a href="https://github.com/mensahTribeWeb/NickMensah/blob/master/README.md">
     <img src="https://readme-typing-svg.demolab.com/?lines=NICK%20MENSAH%20;SOFTWARE%20ENGINEER%20;JAVA%20DEVELOPER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;PROGRAMMER%20;EX%20CHEMIST%20;COMPUTER%20SCIENTIST;CODING%20IS%20MY%20REFUGE;&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
