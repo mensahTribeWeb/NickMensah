@@ -52,6 +52,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mensahTribeWeb&theme=dark&hide_border=false" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mensahtribe&theme=dark&hide_border=false" width="100%"/>
+</p>
+
 ## Summary
 
 <p align="center">
