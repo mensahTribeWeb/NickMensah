@@ -1,3 +1,14 @@
+## About Me
+
+---
+
+<p align="center">
+  <a href="https://github.com/getintorj/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=NICK%20MENSAH%20;SOFTWARE%20ENGINEER%20;JAVA%20DEVELOPER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;PROGRAMMER%20;EX%20CHEMIST%20;COMPUTER%20SCIENTIST;CODING%20IS%20MY%20REFUGE;&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+---
+
 <div align="center">
   <img src="https://github.com/mensahTribeWeb/NickMensah/assets/103342287/ebeef1dd-e73e-4443-92b3-7050222efd33" alt="HelloWorldSeytonicGIF" style="width: 300px; height: 300px;">
   <a href="https://nickmensahportfolio.com/" target="_blank">
@@ -45,9 +56,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mensahTribeWeb&theme=dark" width="100%"/>
 </p>
 
-
-## About Me
-I am a Full-stack Java Developer.
 
 ## Stack
 
