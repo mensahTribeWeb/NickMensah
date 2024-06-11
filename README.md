@@ -65,6 +65,8 @@
 
 ## Stack
 
+<div align="center">
+
 ### Frontend:
 - JavaScript
 - Angular
@@ -81,6 +83,10 @@
 ### Operating System:
 - Windows
 - Linux (Ubuntu)
+  
+</div>
+
+
 
 ## Contact Me
 <div align="center">
