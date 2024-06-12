@@ -65,7 +65,7 @@
 
 ## Stack
 
-<div align="center">
+<div>
 
 ### Frontend:
 - JavaScript
@@ -190,9 +190,15 @@
 <!--   <div style="text-align: center; display: block;">
     <img src="https://octodex.github.com/images/stormtroopocat.jpg" alt="Stormtroopocat" title="The Stormtroopocat" style="width: 300px; height: 300px; border-radius: 50%;" />
   </div> -->
-
+  
+<!--Thank You-->
 <div align="center">
   <img src="https://github.com/mensahTribeWeb/NickMensah/assets/103342287/22e88b7c-ae0d-4516-ad9b-2140b6aa0dbb" alt="PeaceTonyStarkGIF" title="PeaceTonyStarkGIF" style="width: 500px; height: 300px; border-radius: 50%;">
 </div>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mensahTribeWeb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
 
 </div>
