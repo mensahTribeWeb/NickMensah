@@ -1,5 +1,7 @@
 ## About Me
-
+<h2 align="center">
+ ＮＯＫＯＲΞ （ＴＷＩ： ＴＲＵＴＨ）
+</h2>
 ---
 
 <p align="center">
