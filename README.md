@@ -138,3 +138,15 @@ Credly
 <a href = "https://cs.lpi.org/caf/Xamman/certification/verify/LPI000573861/ej7rf6h9ms" target="_blank">
 <image src = "https://github.com/mensahTribeWeb/NickMensah/assets/103342287/4926522d-fda7-4e1c-bd22-2f3475cab818" alt="linux-essential" title="linux-essential" width="120" height="120" />
 </a>
+
+## THANK YOU FOR YOUR TIME
+
+
+<!--Thank You-->
+<div align="center">
+  <img src="https://github.com/mensahTribeWeb/NickMensah/assets/103342287/22e88b7c-ae0d-4516-ad9b-2140b6aa0dbb" alt="PeaceTonyStarkGIF" title="PeaceTonyStarkGIF" style="width: 500px; height: 300px; border-radius: 50%;">
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mensahTribeWeb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
