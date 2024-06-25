@@ -15,7 +15,7 @@
 
 <div align="center">
  <a href="https://www.youtube.com/watch?v=KH0TrRDM8ko" target="_blank">
-  <img src="https://github.com/mensahTribeWeb/NickMensah/assets/103342287/ebeef1dd-e73e-4443-92b3-7050222efd33" alt="HelloWorldSeytonicGIF" style="width: 300px; height: 300px;">
+  <img src="https://github.com/mensahTribeWeb/NickMensah/assets/103342287/ebeef1dd-e73e-4443-92b3-7050222efd33" title="Welcome and Hello" alt="HelloWorldSeytonicGIF" style="width: 300px; height: 300px;">
  </a>
 <!--  Nick -->
   <a href="https://nickmensahportfolio.com/" target="_blank">
@@ -26,7 +26,7 @@
 <!-- nokore.dev -->
 <div align="center "> 
  <a href="https://nokore.dev/" target="_blank">
-  <img src="https://github.com/mensahTribeWeb/NickMensah/assets/103342287/75fd9f17-ba02-4841-8177-f1dba8f3f171" alt="Nick's Profile" style="width: 100%; height: auto;">
+  <img src="https://github.com/mensahTribeWeb/NickMensah/assets/103342287/75fd9f17-ba02-4841-8177-f1dba8f3f171" title="Nokore means Truth in Twi" alt="Nokore.dev" style="width: 100%; height: auto;">
  </a>
 </div>
 
