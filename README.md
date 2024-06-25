@@ -18,15 +18,21 @@
     <img src="https://avatars.githubusercontent.com/u/103342287?v=4" alt="Nick Mensah" title="Nick Mensah" style="width: 300px; height: 300px;">
   </a>
 </div>
-<div align="center"> 
-  <img src="https://github.com/mensahTribeWeb/NickMensah/assets/103342287/75fd9f17-ba02-4841-8177-f1dba8f3f171" alt="Nick's Profile" style="max-width: 100%; height: auto;">
+
+<!-- nokore.dev -->
+<div align="center "> 
+ <a href="https://nokore.com/" target="_blank">
+  <img src="https://github.com/mensahTribeWeb/NickMensah/assets/103342287/75fd9f17-ba02-4841-8177-f1dba8f3f171" alt="Nick's Profile" style="width: 100%; height: auto;">
+ </a>
 </div>
 
+
+<!-- metrics -->
 ## [Active GitHub](https://github.com/mensahTribeWeb)
 
 <br/>
 
-<div align="center">
+<div align="center ">
   <img src="https://github-readme-stats.vercel.app/api?username=mensahTribeWeb&show_icons=true&theme=dark" alt="Nick's GitHub Stats" />
   <a href="https://github.com/mensahTribeWeb/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mensahTribeWeb&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
