@@ -12,8 +12,12 @@
 
 ---
 
+
 <div align="center">
+ <a href="https://www.youtube.com/watch?v=KH0TrRDM8ko" target="_blank">
   <img src="https://github.com/mensahTribeWeb/NickMensah/assets/103342287/ebeef1dd-e73e-4443-92b3-7050222efd33" alt="HelloWorldSeytonicGIF" style="width: 300px; height: 300px;">
+ </a>
+<!--  Nick -->
   <a href="https://nickmensahportfolio.com/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/103342287?v=4" alt="Nick Mensah" title="Nick Mensah" style="width: 300px; height: 300px;">
   </a>
