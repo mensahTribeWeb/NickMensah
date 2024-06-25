@@ -21,7 +21,7 @@
 
 <!-- nokore.dev -->
 <div align="center "> 
- <a href="https://nokore.com/" target="_blank">
+ <a href="https://nokore.dev/" target="_blank">
   <img src="https://github.com/mensahTribeWeb/NickMensah/assets/103342287/75fd9f17-ba02-4841-8177-f1dba8f3f171" alt="Nick's Profile" style="width: 100%; height: auto;">
  </a>
 </div>
