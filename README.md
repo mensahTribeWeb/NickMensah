@@ -136,8 +136,6 @@
 
 ## Certifications 
 
-Credly
-
 <a href = "https://www.credly.com/badges/ba2211df-87ea-4edb-9dfa-5c304479f2ae/public_url" target="_blank">
 <image src = "https://images.credly.com/size/340x340/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png" alt="IBM-AGILE-CERT" title="IBM-AGILE-CERT" width="120" height="120" />
 </a>
@@ -149,8 +147,13 @@ Credly
 <image src = "https://github.com/mensahTribeWeb/NickMensah/assets/103342287/4926522d-fda7-4e1c-bd22-2f3475cab818" alt="linux-essential" title="linux-essential" width="120" height="120" />
 </a>
 
-## THANK YOU FOR YOUR TIME
+<a href = "#" target="_blank">
+<image src = "https://github.com/mensahTribeWeb/NickMensah/assets/103342287/07e1deb7-193d-40b1-8bee-74faf0718866" alt="ITIL4" title="ITIL4" width="120" height="120" />
+</a>
 
+
+
+## THANK YOU FOR YOUR TIME
 
 <!--Thank You-->
 <div align="center">
