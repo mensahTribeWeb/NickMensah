@@ -151,6 +151,20 @@
 <image src = "https://github.com/mensahTribeWeb/NickMensah/assets/103342287/07e1deb7-193d-40b1-8bee-74faf0718866" alt="ITIL4" title="ITIL4" width="120" height="120" />
 </a>
 
+<!-- TODO -->
+<!-- AWS CERTS -->
+<!-- <a href = "#" target="_blank">
+<image src = "https://github.com/mensahTribeWeb/NickMensah/assets/103342287/38b5c208-aa3b-425e-b9e2-3a0305b5e1f4" alt="AWS Practioner" title="AWS Practioner" width="120" height="120" />
+</a>
+
+<a href = "#" target="_blank">
+<image src = "https://github.com/mensahTribeWeb/NickMensah/assets/103342287/54b98e0d-cf3b-4ce2-bd45-0c85fc68be91" alt="AWS Architect" title="AWS Architect" width="120" height="120" />
+</a>
+
+<a href = "#" target="_blank">
+<image src = "https://github.com/mensahTribeWeb/NickMensah/assets/103342287/9be34d74-8c27-4956-926e-f77194bc3b98" alt="AWS Developer" title="AWS Developer" width="120" height="120" />
+</a>
+-->
 
 
 ## THANK YOU FOR YOUR TIME
