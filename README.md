@@ -101,12 +101,8 @@
   <a href="https://www.linkedin.com/in/nicholas-d-mensah/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="80" height="80">
   </a>
-</div>
-
-## Github
-  - @[mensahtribe](https://github.com/mensahtribe)-dev
-  - @[mensahTribeWeb](https://github.com/mensahTribeWeb)-admin
-  - @[Nokore.dev](https://nokore.dev/home)-LLC
+ 
+<br>
 
 ## Languages and Tools 👨🏾‍💻
 <div style="display: flex; gap: 30px; max-width: 400px; " align="center">
@@ -165,6 +161,11 @@
 <image src = "https://github.com/mensahTribeWeb/NickMensah/assets/103342287/9be34d74-8c27-4956-926e-f77194bc3b98" alt="AWS Developer" title="AWS Developer" width="120" height="120" />
 </a>
 -->
+
+## Github
+  - @[mensahtribe](https://github.com/mensahtribe)-dev
+  - @[mensahTribeWeb](https://github.com/mensahTribeWeb)-admin
+  - @[Nokore.dev](https://nokore.dev/home)-LLC
 
 
 ## THANK YOU FOR YOUR TIME
