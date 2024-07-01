@@ -164,9 +164,9 @@
 
 ## Github
 
-  - @[mensahtribe](https://github.com/mensahtribe)-dev
-  - @[mensahTribeWeb](https://github.com/mensahTribeWeb)-admin
-  - @[Nokore.dev](https://nokore.dev/home)-LLC
+   @[mensahtribe](https://github.com/mensahtribe)-dev <br>
+   @[mensahTribeWeb](https://github.com/mensahTribeWeb)-admin <br>
+   @[Nokore.dev](https://nokore.dev/home)-LLC <br>
 
 
 ## THANK YOU FOR YOUR TIME
