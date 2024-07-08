@@ -70,41 +70,19 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mensahTribeWeb&theme=dark" width="100%"/>
 </p>
 
-## Stack
-
-<div>
-
-### Frontend:
-- JavaScript
-- Angular
-- React
-
-### Backend:
-- Java
-- Springboot
-
-### Database:
-- PostgreSQL
-- MySQL
-
-### Operating System:
-- Windows
-- Linux (Ubuntu)
-  
-</div>
-
-## Contact Me
+## Technology Stack
 
 <div align="center">
-  <a href="https://twitter.com/Nokoredev">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="80" height="80">
-  </a>
-  <a href="https://www.linkedin.com/in/nicholas-d-mensah/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="80" height="80">
-  </a>
+
+| Category        | Technologies                  |
+|-----------------|-------------------------------|
+| **Frontend**    | JavaScript, Angular, React    |
+| **Backend**     | Java, Spring Boot             |
+| **Database**    | PostgreSQL, MySQL             |
+| **Operating System** | Windows, Linux (Ubuntu)  |
+
 </div>
 <br>
-
 
 ## Languages and Tools 👨🏾‍💻
 
@@ -295,6 +273,19 @@
 <image src = "https://github.com/mensahTribeWeb/NickMensah/assets/103342287/9be34d74-8c27-4956-926e-f77194bc3b98" alt="AWS Developer" title="AWS Developer" width="120" height="120" />
 </a>
 -->
+
+## Contact Me
+
+<div align="center">
+  <a href="https://twitter.com/Nokoredev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="80" height="80">
+  </a>
+  <a href="https://www.linkedin.com/in/nicholas-d-mensah/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="80" height="80">
+  </a>
+</div>
+<br>
+
 
 ## Github
 
