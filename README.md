@@ -76,9 +76,9 @@
 
 | Category        | Technologies                  |
 |-----------------|-------------------------------|
-| **Frontend**    | JavaScript, Angular, React    |
-| **Backend**     | Java, Spring Boot             |
-| **Database**    | PostgreSQL, MySQL             |
+| **Frontend**    | JavaScript, *Angular, React    |
+| **Backend**     | Java, *Spring Boot, Python     |
+| **Database**    | *PostgreSQL, MySQL             |
 | **Operating System** | Windows, Linux (Ubuntu)  |
 
 </div>
