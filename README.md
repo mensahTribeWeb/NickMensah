@@ -83,7 +83,20 @@
 </div>
 <br>
 
+
+## Contact 
+
+<div align="center">
+  <a href="https://twitter.com/Nokoredev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="80" height="80">
+  </a>
+  <a href="https://www.linkedin.com/in/nicholas-d-mensah/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="80" height="80">
+  </a>
+</div>
+=======
 ## Languages and Tools 👨🏾‍💻
+
 
 <table align="center" flex gap="30px" max-width="400px;">
   <tr>
